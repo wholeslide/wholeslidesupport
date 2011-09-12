@@ -1,0 +1,48 @@
+{
+    "resourceurl": "http://$(hostname).wholeslide", 
+    "description": "currently unused", 
+    "baseurl": "http://$(hostname)", 
+    "setlist": [
+        {
+            "source": "$(person), $(university)", 
+            "shortname": "$(setname)", 
+            "tilelist": {
+                "tilename": {
+                    "url": "$(tileurl)", 
+                    "h": 21840, 
+                    "type": "zoomify", 
+                    "w": 49824
+                }, 
+                "tilename": {
+                    "url": "$(tileurl)", 
+                    "h": 19696, 
+                    "type": "zoomify", 
+                    "w": 48208
+                }
+            }, 
+            "species": "$(species)", 
+            "thumbnail": "$(tileurl)/TileGroup0/0-0-0.jpg"
+        }, 
+        {
+            "source": "$(person), $(university)", 
+            "shortname": "$(setname)", 
+            "tilelist": {
+                "tilename": {
+                    "url": "$(tileurl)", 
+                    "h": 21520, 
+                    "type": "zoomify", 
+                    "w": 49824
+                },
+                "tilename": {
+                    "url": "$(tileurl)", 
+                    "h": 20304, 
+                    "type": "zoomify", 
+                    "w": 50000
+                }
+            }, 
+            "species": "$(species)", 
+            "thumbnail": "$(tileurl)/TileGroup0/0-0-0.jpg"
+        }], 
+    "displayname": "$(sitename)", 
+    "shortname": "$(dbname)"
+}
