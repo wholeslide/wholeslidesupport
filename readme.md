@@ -1,7 +1,5 @@
 # WholeSlide Development
 
-## Product Requirement Specification (PRS)
-
 
 ### High-level architecture
 
