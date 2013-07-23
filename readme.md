@@ -3,7 +3,7 @@
 
 ### High-level architecture
 
-![image](/)
+![image](https://raw.github.com/wholeslide/wholeslidesupport/master/images/architecture-diagram.png)
 
 
 <hr>
