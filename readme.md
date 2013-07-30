@@ -4,7 +4,7 @@ This repository has been reorganized to be a bit more user-friendly. All technic
 
 ### [WIKI](https://github.com/wholeslide/wholeslidesupport/wiki)
 
-
+![http://wholeslide.com/images/mainImage.jpg](http://wholeslide.com/images/mainImage.jpg)
 
 
 
